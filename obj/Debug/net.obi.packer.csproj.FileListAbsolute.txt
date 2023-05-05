@@ -1,0 +1,6 @@
+C:\Users\ObisoftDev\RiderProjects\net.obi.packer\net.obi.packer\bin\Debug\net.obi.packer.dll
+C:\Users\ObisoftDev\RiderProjects\net.obi.packer\net.obi.packer\bin\Debug\net.obi.packer.pdb
+C:\Users\ObisoftDev\RiderProjects\net.obi.packer\net.obi.packer\obj\Debug\net.obi.packer.csproj.AssemblyReference.cache
+C:\Users\ObisoftDev\RiderProjects\net.obi.packer\net.obi.packer\obj\Debug\net.obi.packer.csproj.CoreCompileInputs.cache
+C:\Users\ObisoftDev\RiderProjects\net.obi.packer\net.obi.packer\obj\Debug\net.obi.packer.dll
+C:\Users\ObisoftDev\RiderProjects\net.obi.packer\net.obi.packer\obj\Debug\net.obi.packer.pdb
